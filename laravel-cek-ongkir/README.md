@@ -94,6 +94,10 @@ To run the application on your computer, please follow the following command :
 
 ## Screenshoot
 
+![4](https://user-images.githubusercontent.com/58255031/192473963-57493c28-e6d9-41da-b270-5d5c5f8189a4.png)
+
+![3](https://user-images.githubusercontent.com/58255031/192473986-079dc39f-9175-428f-ab43-76b4abfa8e3c.png)
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
