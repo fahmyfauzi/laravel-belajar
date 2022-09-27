@@ -75,7 +75,7 @@ To run the application on your computer, please follow the following command :
 
 8. Change api_key on .env
     ```sh
-        RAJAONGKIR_API_KEY=3a990357af3769d77016c81dc5c5801d
+        RAJAONGKIR_API_KEY={your-api-key}
         RAJAONGKIR_PACKAGE=starter
     ```
 9. Generate an app encryption key
